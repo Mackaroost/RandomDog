@@ -1,0 +1,14 @@
+
+button{
+    border:none;
+    padding: .5rem;
+}
+
+.escondido{
+    display: none !important;
+}
+
+img{
+    width: 100%;
+   
+}
